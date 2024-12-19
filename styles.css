@@ -1,0 +1,11 @@
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+#nav-bar {
+    display: flex;
+    position: absolute;
+    justify-content: space-between;
+    width: 100%;
+}
